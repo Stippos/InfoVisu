@@ -1,4 +1,4 @@
-Ikä, vuotta	Yht.yhteensä	Miehetyhteensä	Naisetyhteensä	Yht.Naimattomat	MiehetNaimattomat	NaisetNaimattomat	Yht.Naimisissa (*)	MiehetNaimisissa (*)	NaisetNaimisissa (*)	Yht.Eronneet	MiehetEronneet	NaisetEronneet	Yht.Lesket (¤)	MiehetLesket (¤)	NaisetLesket (¤)
+Ik, vuotta	Yht.yhteens	Miehetyhteens	Naisetyhteens	Yht.Naimattomat	MiehetNaimattomat	NaisetNaimattomat	Yht.Naimisissa (*)	MiehetNaimisissa (*)	NaisetNaimisissa (*)	Yht.Eronneet	MiehetEronneet	NaisetEronneet	Yht.Lesket ()	MiehetLesket ()	NaisetLesket ()
 0-4	27395	13985	13410	27395	13985	13410	0	0	0	0	0	0	0	0	0
 5-9	26810	13687	13123	26810	13687	13123	0	0	0	0	0	0	0	0	0
 10-14	28117	14364	13753	28117	14364	13753	0	0	0	0	0	0	0	0	0
