@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6530) (preloaded format=pdflatex 2017.9.11)  25 MAR 2018 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6530) (preloaded format=pdflatex 2017.9.11)  25 MAR 2018 22:52
 entering extended mode
 **./rapsa.tex
 (rapsa.tex
@@ -195,39 +195,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <absolute.png, id=1, 3671.46657pt x 1416.04031pt>
 File: absolute.png Graphic file (type png)
 <use absolute.png>
-Package pdftex.def Info: absolute.png  used on input line 16. on input line 16.
+Package pdftex.def Info: absolute.png  used on input line 26. on input line 26.
 
 Package pdftex.def Info: Requested size: 443.57848pt x 171.06267pt on input lin
-e 16.
-<relative.png, id=3, 3584.14032pt x 1370.87157pt>
-File: relative.png Graphic file (type png)
-<use relative.png>
-Package pdftex.def Info: relative.png  used on input line 23. on input line 23.
+e 26.
 
-Package pdftex.def Info: Requested size: 443.57848pt x 169.64326pt on input lin
-e 23.
-<cumulative.png, id=4, 1156.32pt x 722.7pt>
-File: cumulative.png Graphic file (type png)
-<use cumulative.png>
-Package pdftex.def Info: cumulative.png  used on input line 30. on input line 3
-0.
-Package pdftex.def Info: Requested size: 443.57848pt x 277.23134pt on input lin
-e 30.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [1
 
-{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2 <./absol
-ute.png> <./relative.png>]
-<glyphs.pdf, id=18, pagebox=cropbox, 480.79625pt x 198.7425pt>
-File: glyphs.pdf Graphic file (type pdf)
-<use glyphs.pdf>
-Package pdftex.def Info: glyphs.pdf  used on input line 58. on input line 58.
-Package pdftex.def Info: Requested size: 443.57848pt x 183.36084pt on input lin
-e 58.
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+<relative.png, id=11, 3584.14032pt x 1370.87157pt>
+File: relative.png Graphic file (type png)
+<use relative.png>
+Package pdftex.def Info: relative.png  used on input line 42. on input line 42.
+
+Package pdftex.def Info: Requested size: 443.57848pt x 169.64326pt on input lin
+e 42.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./cumulative.png>] [4 <./glyphs.pdf>] (rapsa.aux) ) 
+[2 <./absolute.png>]
+<cumulative.png, id=16, 1156.32pt x 722.7pt>
+File: cumulative.png Graphic file (type png)
+<use cumulative.png>
+Package pdftex.def Info: cumulative.png  used on input line 55. on input line 5
+5.
+Package pdftex.def Info: Requested size: 443.57848pt x 277.23134pt on input lin
+e 55.
+ [3 <./relative.png> <./cumulative.png>] [4] [5]
+<glyphs.pdf, id=28, pagebox=cropbox, 480.79625pt x 198.7425pt>
+File: glyphs.pdf Graphic file (type pdf)
+<use glyphs.pdf>
+Package pdftex.def Info: glyphs.pdf  used on input line 90. on input line 90.
+Package pdftex.def Info: Requested size: 443.57848pt x 183.36084pt on input lin
+e 90.
+ [6 <./glyphs.pdf>] (rapsa.aux) ) 
 Here is how much of TeX's memory you used:
  1941 strings out of 495217
  28334 string characters out of 3181509
@@ -235,15 +239,15 @@ Here is how much of TeX's memory you used:
  5231 multiletter control sequences out of 15000+200000
  7280 words of font info for 26 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,6n,29p,647b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
-</home/ari/.miktex/texmf
-s/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/ari/.miktex/texmfs/i
-nstall/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/ari/.miktex/texmfs/insta
-ll/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/ari/.miktex/texmfs/install/f
-onts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on rapsa.pdf (4 pages, 978553 bytes).
+ 41i,6n,29p,1063b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/ari/.miktex/texmfs/install/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb></home/ari/.miktex/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></home/ari/.miktex/texmfs/install/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></home/ari/.miktex/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmr17.pfb>
+Output written on rapsa.pdf (6 pages, 986974 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
