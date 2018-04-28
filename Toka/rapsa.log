@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6530) (preloaded format=pdflatex 2017.9.11)  24 MAR 2018 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6530) (preloaded format=pdflatex 2017.9.11)  25 MAR 2018 22:52
 entering extended mode
 **./rapsa.tex
 (rapsa.tex
@@ -45,34 +45,61 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/home/ari/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/home/ari/.miktex/texmfs/install/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+(/home/ari/.miktex/texmfs/install/tex/xelatex/xetexconfig/geometry.cfg))
 (rapsa.aux)
 \openout1 = `rapsa.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
  (/home/ari/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count87
-\scratchdimen=\dimen105
+\scratchcounter=\count90
+\scratchdimen=\dimen113
 \scratchbox=\box26
-\nofMPsegments=\count88
-\nofMParguments=\count89
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count90
-\MPscratchDim=\dimen106
-\MPnumerator=\count91
-\makeMPintoPDFobject=\count92
-\everyMPtoPDFconversion=\toks16
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen114
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks17
 ) (/home/ari/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -109,10 +136,6 @@ Package etexcmds Info: Could not find \expanded.
 (/home/ari/.miktex/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/home/ari/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -129,39 +152,102 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 6.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 8.
+<absolute.png, id=1, 3671.46657pt x 1416.04031pt>
+File: absolute.png Graphic file (type png)
+<use absolute.png>
+Package pdftex.def Info: absolute.png  used on input line 26. on input line 26.
+
+Package pdftex.def Info: Requested size: 443.57848pt x 171.06267pt on input lin
+e 26.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [1
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
-<glyphs.pdf, id=9, pagebox=cropbox, 480.79625pt x 198.7425pt>
+<relative.png, id=11, 3584.14032pt x 1370.87157pt>
+File: relative.png Graphic file (type png)
+<use relative.png>
+Package pdftex.def Info: relative.png  used on input line 42. on input line 42.
+
+Package pdftex.def Info: Requested size: 443.57848pt x 169.64326pt on input lin
+e 42.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./absolute.png>]
+<cumulative.png, id=16, 1156.32pt x 722.7pt>
+File: cumulative.png Graphic file (type png)
+<use cumulative.png>
+Package pdftex.def Info: cumulative.png  used on input line 55. on input line 5
+5.
+Package pdftex.def Info: Requested size: 443.57848pt x 277.23134pt on input lin
+e 55.
+ [3 <./relative.png> <./cumulative.png>] [4] [5]
+<glyphs.pdf, id=28, pagebox=cropbox, 480.79625pt x 198.7425pt>
 File: glyphs.pdf Graphic file (type pdf)
 <use glyphs.pdf>
-Package pdftex.def Info: glyphs.pdf  used on input line 35. on input line 35.
-Package pdftex.def Info: Requested size: 345.0pt x 142.6123pt on input line 35.
-
- [2 <./glyphs.pdf>] (rapsa.aux) ) 
+Package pdftex.def Info: glyphs.pdf  used on input line 90. on input line 90.
+Package pdftex.def Info: Requested size: 443.57848pt x 183.36084pt on input lin
+e 90.
+ [6 <./glyphs.pdf>] (rapsa.aux) ) 
 Here is how much of TeX's memory you used:
- 1441 strings out of 495217
- 20828 string characters out of 3181509
- 71821 words of memory out of 3000000
- 4748 multiletter control sequences out of 15000+200000
+ 1941 strings out of 495217
+ 28334 string characters out of 3181509
+ 88518 words of memory out of 3000000
+ 5231 multiletter control sequences out of 15000+200000
  7280 words of font info for 26 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,6n,25p,647b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,29p,1063b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
 </home/ari/.miktex/texmfs/install/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb></home/ari/.miktex/texmfs/install/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb></home/ari/.miktex/texmfs/install/fonts/type1/public/
 amsfonts/cm/cmr12.pfb></home/ari/.miktex/texmfs/install/fonts/type1/public/amsf
 onts/cm/cmr17.pfb>
-Output written on rapsa.pdf (2 pages, 57685 bytes).
+Output written on rapsa.pdf (6 pages, 986974 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
